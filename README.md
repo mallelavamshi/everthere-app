@@ -22,7 +22,7 @@ On the Welcome screen tap **Try the demo ✨**, then choose one:
 | **Peek as a Parent 👩‍👧** | Sarah Johnson, Mia's mom |
 | **Peek as a Teacher 🍎** | Ms. Jess Parker, Butterflies Room, Little Acorns Daycare |
 
-Both are already set up with a seeded world. Every face in it is AI-generated. To switch persona, open the profile menu (round avatar button, top right) and tap **Sign out**.
+Both are already set up with a seeded world. Mia's Daddy is the app maker's own Napster digital twin (his real face and voice, used with his consent). Every other face is AI-generated. To switch persona, open the profile menu (round avatar button, top right) and tap **Sign out**.
 
 ## 3. What to try: a guided tour
 
@@ -50,7 +50,7 @@ Calls are capped at 10 minutes, with a warning at 8.
 - **The nanny path is not in the demo.** Try the demo only offers Parent and Teacher. Home caregivers are set up with real accounts, which you can create yourself.
 - **Nightly reset.** The demo world resets every night at 08:00 UTC, so sessions you create will disappear then and every judge sees a fresh world.
 - **Demo accounts are shared.** Other judges may be using them at the same time. Writes work, but you can't delete the accounts.
-- **Voices are stock voices.** Voice cloning is on the roadmap. Avatars use Napster's v1 photo mode, so lip-sync is softer than v2 video.
+- **Voices.** Mia's Daddy speaks in the maker's own cloned voice (his Napster digital twin). The other demo parents use stock voices. Avatars use Napster's v1 photo mode, so lip-sync is softer than v2 video.
 - **No push notifications when the app is closed.** Alerts are in-app, and local notifications appear while the app is open.
 - **Want the full path?** You can sign up for real as a parent and make an avatar from your own photo. The consent step applies to you.
 
