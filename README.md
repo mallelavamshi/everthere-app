@@ -1,8 +1,12 @@
-# EverThere: Android app for judges
+# EverThere: app for judges
 
-EverThere is an Android app that puts a parent's live AI avatar on a caregiver's screen to comfort a child. This guide takes about five minutes. You need an Android phone or tablet, a microphone, and internet.
+EverThere is an app that puts a parent's live AI avatar on a caregiver's screen to comfort a child. This guide takes about five minutes. You need a microphone and internet, plus either a browser or an Android phone or tablet.
 
-## 1. Install the APK
+## 1. Open the app
+
+**Fastest: in a browser.** Open **https://everthere-web.m-vamshikrishna22.workers.dev** in Chrome, Edge or Safari, on a laptop, tablet or phone. Allow the microphone when the call asks. It is the same app as the APK, built from the same code. A wide window (700px or more) gets the classroom-tablet layout, with the "Who's teaching?" PIN switch.
+
+**Or install the Android APK:**
 
 > **Download:** https://github.com/mallelavamshi/everthere-app/releases/latest/download/EverThere.apk
 > (release page: https://github.com/mallelavamshi/everthere-app/releases/latest)
@@ -11,7 +15,7 @@ EverThere is an Android app that puts a parent's live AI avatar on a caregiver's
 2. Open the file. If Android asks, allow installs from this source (Settings, then Install unknown apps).
 3. Open **EverThere**.
 
-Android only. The API is live at https://everthere-api.m-vamshikrishna22.workers.dev, so there is nothing else to set up.
+The API is live at https://everthere-api.m-vamshikrishna22.workers.dev, so there is nothing else to set up. Source code: https://github.com/mallelavamshi/everthere
 
 ## 2. Try the demo (no account needed)
 
@@ -45,7 +49,7 @@ Calls are capped at 10 minutes, with a warning at 8.
 
 ## 4. Things to know
 
-- **Mic permission.** The first call asks to record audio. Tap **While using the app**. If you denied it, enable it in Android Settings, Apps, EverThere, Permissions, Microphone. The child's camera is never used in a call.
+- **Mic permission.** The first call asks to record audio. On Android tap **While using the app** (if you denied it, enable it in Android Settings, Apps, EverThere, Permissions, Microphone). In a browser click **Allow** (if you blocked it, click the microphone or lock icon in the address bar). The child's camera is never used in a call.
 - **"EverThere is resting."** If a call won't start and you see "EverThere is taking a little rest", the shared demo budget was reached ($120 total, and 200 calls a day per demo user). Try again later. It is a deliberate guard, not a crash.
 - **The nanny path is not in the demo.** Try the demo only offers Parent and Teacher. Home caregivers are set up with real accounts, which you can create yourself.
 - **Nightly reset.** The demo world resets every night at 08:00 UTC, so sessions you create will disappear then and every judge sees a fresh world.
@@ -67,4 +71,3 @@ Calls are capped at 10 minutes, with a warning at 8.
 | "The demo is waking up — try again in a moment" | Shown by Try the demo when the demo is busy, resting or rate limited. Wait a minute and tap Try the demo again. |
 | No "Who's teaching?" sheet | The screen is narrower than 700px. Use a tablet. |
 | Stuck or odd state | Open the profile menu, Sign out, and use Try the demo again. |
-
