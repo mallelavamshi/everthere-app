@@ -4,7 +4,7 @@ EverThere is an app that puts a parent's live AI avatar on a caregiver's screen 
 
 ## 1. Open the app
 
-**Fastest: in a browser.** Open **https://everthere-web.m-vamshikrishna22.workers.dev** in Chrome, Edge or Safari, on a laptop, tablet or phone. Allow the microphone when the call asks. It is the same app as the APK, built from the same code. A wide window (700px or more) gets the classroom-tablet layout, with the "Who's teaching?" PIN switch.
+**Fastest: in a browser.** Open **https://everthere-web.m-vamshikrishna22.workers.dev** in Chrome, Edge or Safari, on a laptop, tablet or phone. Allow the microphone when the call asks. It is the same app as the APK, built from the same code. On a laptop it runs inside a phone on the page, exactly as it looks on Android, with the steps beside it. For the classroom-tablet layout (the "Who's teaching?" PIN switch), open **https://everthere-web.m-vamshikrishna22.workers.dev/?frame=0** in a wide window.
 
 **Or install the Android APK:**
 
